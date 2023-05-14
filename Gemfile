@@ -32,6 +32,9 @@ gem "jbuilder"
 
 # simpleform
 gem "simple_form"
+
+# faker
+gem 'faker'
 # Use Kredis to get higher-level data types in Redis [https://github.com/rails/kredis]
 # gem "kredis"
 
